@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Courier&size=40&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&repeat=false&lines=SECJ1013+|+Programming+Technique+1" 
+    src="https://readme-typing-svg.demolab.com?font=Courier&size=25&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&repeat=false&lines=SECJ1013+|+Programming+Technique+I" 
     alt="Typing SVG" />
 </p>
 
