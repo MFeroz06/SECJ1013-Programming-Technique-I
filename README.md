@@ -1,1 +1,96 @@
-# SECJ1013-Programming-Technique-I
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Courier&size=40&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&repeat=false&lines=SECJ1013+|+Programming+Technique+1" 
+    alt="Typing SVG" />
+</p>
+
+## Credit Course
+---
+Credit : 03
+---
+
+## 📝 Course Synopsis
+---
+- As a fundamental subject, this course equips the students with theory and practice on problem solving techniques by using the structured approach.
+- The course covers the following: preprocessor directives, constants and variables, data types, input and output statements, control structures: sequential, selection and loop, built-in and user-defined functions, single and two dimensional arrays, file operations, pointers, and structured data types.
+- Students are required to develop programs using C++ programming language, in order to solve simple to moderate problems.
+- A learning approach that combines lectures, lab exercises, and assignments strengthens both conceptual understanding and practical programming skills.
+- Students will be able to apply systematic problem-solving methods to analyze and address programming challenges.
+- Develop structured approach C++ programs to solve problems of varying complexity within a specified time frame.
+---
+
+## 🏫 Section and Lecturer Information
+---
+- Section : **02**
+- Lecturer Name : Dr. Muhammad Luqman bin Mohd Shafie
+- Office : N28-346-03
+
+---
+
+## ✏️ Course Learning Outcomes
+---
+- CLO1 - Solve problems systematically using problem solving methods
+- CLO2 - Apply structured programming principles in C++ to solve problems ranging from simple to moderate complexity and construct efficient C++ programs using a systematic approach to address analyzed problems effectively.
+- CLO3 - Solve programming problems within a specified time frame and construct efficient C++ programs using appropriate tools
+---
+
+## 📖 Chapter
+---
+### Chapter 1 : Programming Problem-Solving
+- 1.1 Problem-Solving Process
+- 1.2 Problem-Solving Techniques
+### Chapter 2 : Elementary Programming
+- 2.1 Variables and Assignments
+- 2.2 Input and Output
+- 2.3 Data Types and Constants
+- 2.4 Arithmetic Expressions
+### Chapter 3 : Control Structures
+- 3.1 Boolean and Logical Expressions
+- 3.2 Selection/ Branch
+- 3.3 Loop
+### Chapter 4 : Function
+- 4.1 Predefined/ Library Functions
+- 4.2 User-Defined Functions
+- 4.3 Isomorphism of Graphs
+- 4.4 Path and Cycles
+- 4.5 Euler Cycles
+- 4.6 Hamiltonian Cycles
+- 4.7 Dijkstra’s Shortest Path Algorithm
+- 4.8 Trees
+### Chapter 5 : Array
+- 5.1 One Dimension
+- 5.2 Two Dimension
+- 5.3 Multidimensional Arrays
+### Chapter 6 : Input and Output
+- 6.1 Formatting Output
+- 6.2 Formatted Input
+- 6.3 Introduction to Files
+### Chapter 7 : Pointers
+- 7.1 Address of a Variable
+- 7.2 Pointer Variable
+- 7.3 The Relationship Between Arrays and Pointer
+- 7.4 Pointer Arithmetic
+- 7.5 Initializing Pointers
+- 7.6 Comparing Pointers
+- 7.7 Pointers as Function Parameters
+- 7.8 Dynamic Memory Allocation
+- 7.9 Returning Pointers from Functions
+### Chapter 8 : Structured Data
+- 8.1 Combining Data into Structures
+- 8.2 Accessing Structure Members
+- 8.3 Initializing the Structure
+- 8.1 Arrays of structures
+- 8.2 Unions and numerated data types
+---
+
+## 🎒 Continuous Assessment
+---
+- Lab 1 (4%)
+- Lab 2-4 (11%)
+- Test 1 - Written (15%)
+- Test 2 - Practical (15%)
+- Assignment 1 (6%)
+- Assignment 2-3 (14%)
+- Final Examination - Written (20%)
+- Final Examination - Practical (15%)
+---
