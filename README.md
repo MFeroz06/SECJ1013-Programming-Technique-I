@@ -33,6 +33,9 @@ Credit : 03
 - CLO2 - Apply structured programming principles in C++ to solve problems ranging from simple to moderate complexity and construct efficient C++ programs using a systematic approach to address analyzed problems effectively.
 - CLO3 - Solve programming problems within a specified time frame and construct efficient C++ programs using appropriate tools
 ---
+## T&L Practice
+- Lab-based Learning
+- Group-based Learning
 
 ## 📖 Chapter
 ---
