@@ -54,12 +54,6 @@ Credit : 03
 ### Chapter 4 : Function
 - 4.1 Predefined/ Library Functions
 - 4.2 User-Defined Functions
-- 4.3 Isomorphism of Graphs
-- 4.4 Path and Cycles
-- 4.5 Euler Cycles
-- 4.6 Hamiltonian Cycles
-- 4.7 Dijkstra’s Shortest Path Algorithm
-- 4.8 Trees
 ### Chapter 5 : Array
 - 5.1 One Dimension
 - 5.2 Two Dimension
@@ -82,8 +76,8 @@ Credit : 03
 - 8.1 Combining Data into Structures
 - 8.2 Accessing Structure Members
 - 8.3 Initializing the Structure
-- 8.1 Arrays of structures
-- 8.2 Unions and numerated data types
+- 8.4 Arrays of structures
+- 8.5 Unions and numerated data types
 ---
 
 ## 🎒 Continuous Assessment
