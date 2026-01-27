@@ -19,3 +19,12 @@
 ## Instruction
 > Develop a Basal Metabolic Rate (BMR) Calculator to estimate a basal metabolic rate: the amount of energy expended while at rest in a neutrally temperate environment, and in a post-absorptive state (meaning that the digestive system is inactive, which requires about 12 hours of fasting).
 > 
+
+## ✨ Reflection
+---
+> This improve my technical skill which is C++ coding.
+---
+
+## ✨ Suggestion for Improvement
+---
+> I hope we can create a real calculator that applies our coding.
