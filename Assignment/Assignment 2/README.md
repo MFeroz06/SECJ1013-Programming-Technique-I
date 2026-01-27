@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏢 Assignment 2: Mini Project ( Basal Metabolic Rate (BMR) Calculator
+# Assignment 2: Mini Project ( Basal Metabolic Rate (BMR) Calculator
 </div>
 
 ---
